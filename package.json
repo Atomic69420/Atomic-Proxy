@@ -1,0 +1,20 @@
+{
+  "name": "atomic-proxy",
+  "version": "1.0.0",
+  "description": "A simple proxy script using bedrock-protocol to secure your BDS server from alts and bot accounts using the BDS whitelist system",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atomic69420/Atomic-Proxy.git"
+  },
+  "keywords": [
+    "Proxy",
+    "AntiCheat"
+  ],
+  "author": "Atomic69420, ip_atomic, or AtomicTM6850",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/Atomic69420/Atomic-Proxy/issues"
+  },
+  "homepage": "https://github.com/Atomic69420/Atomic-Proxy#readme"
+}
